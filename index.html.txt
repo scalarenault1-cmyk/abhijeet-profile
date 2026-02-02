@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Abhijeet Chakranarayan | Supply Chain & Transformation Leader</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      background: #f4f6f8;
+      color: #1f2933;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #0a66c2, #004182);
+      color: #fff;
+      padding: 40px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+    header p {
+      margin: 8px 0 0;
+      font-size: 18px;
+      max-width: 900px;
+    }
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 30px 20px;
+    }
+    section {
+      background: #fff;
+      margin-bottom: 24px;
+      padding: 24px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+    h2 {
+      color: #0a66c2;
+      margin-top: 0;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .experience-item {
+      margin-bottom: 20px;
+    }
+    .experience-item h3 {
+      margin-bottom: 4px;
+    }
+    .meta {
+      font-size: 14px;
+      color: #555;
+      margin-bottom: 8px;
+    }
+    .skills span {
+      display: inline-block;
+      background: #e8f1fb;
+      color: #0a66c2;
+      padding: 6px 10px;
+      margin: 6px 6px 0 0;
+      border-radius: 20px;
+      font-size: 14px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #666;
+      font-size: 14px;
+    }
+    a {
+      color: #0a66c2;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Abhijeet Chakranarayan</h1>
+  <p>Supply Chain Transformation | GCC & Shared Services | CX Excellence | ERP & Salesforce | Cost Optimization</p>
+</header>
+
+<div class="container">
+
+  <section>
+    <h2>Profile Summary</h2>
+    <p>
+      Awarded <strong>Titan of the Year</strong> for Process Excellence and SCM Transformation. Senior Supply Chain and Operations leader with <strong>20+ years of experience</strong> driving IT-enabled transformation, Global Capability Centre (GCC) operations, and shared services delivery across shipping, logistics, and enterprise environments.
+    </p>
+    <p>
+      Proven expertise in multi-country transitions, ERP-led transformation, CX improvement, and service governance with a strong record of delivering sustained cost optimization, operational excellence, and scalable global delivery models.
+    </p>
+    <p>
+      Certified Professional Scrum Master (PSM) and Certified Coach – Neuroscience, bringing structured agility, change leadership, and people-centric transformation to complex global environments.
+    </p>
+  </section>
+
+  <section>
+    <h2>Professional Experience</h2>
+
+    <div class="experience-item">
+      <h3>Deputy General Manager – EXIM, Transportation, Warehousing & SCM</h3>
+      <div class="meta">LX Pantos | Jun 2025 – Nov 2025</div>
+      <ul>
+        <li>Led end-to-end domestic and international EXIM operations, logistics execution, vendor management, and compliance.</li>
+        <li>Delivered USD 150K+ in savings through transportation optimization and vendor renegotiation.</li>
+        <li>Improved vehicle turnaround time from 48 hours to 12 hours.</li>
+        <li>Managed and mentored 80+ employees, including senior managers.</li>
+      </ul>
+    </div>
+
+    <div class="experience-item">
+      <h3>Deputy General Manager – Relationship & Transition</h3>
+      <div class="meta">ZIM Integrated Shipping Services | May 2021 – Jun 2025</div>
+      <ul>
+        <li>Led large-scale GCC transition and transformation programs for 5+ countries.</li>
+        <li>Improved CSAT by 30% through CX transformation and governance cadence.</li>
+        <li>Delivered 10–15% YoY cost savings via workforce optimization.</li>
+        <li>Built executive dashboards, KPI reviews, SOPs, SLAs, and RACIs.</li>
+      </ul>
+    </div>
+
+    <div class="experience-item">
+      <h3>Manager – CX, Operations & E-Bookings</h3>
+      <div class="meta">Maersk Global Service Centres | Sep 2013 – Jan 2021</div>
+      <ul>
+        <li>Led global shared services teams of 60+ FTEs across regions.</li>
+        <li>Improved NPS from –20 to +40 across EMEA.</li>
+        <li>Reduced booking turnaround time from 2 hours to 10 minutes using RPA.</li>
+        <li>Increased Salesforce first-time resolution from 20% to 80%.</li>
+        <li>Delivered €70K–80K annual savings via automation initiatives.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Key Skills</h2>
+    <div class="skills">
+      <span>CXO Stakeholder Management</span>
+      <span>GCC & Shared Services</span>
+      <span>Supply Chain Transformation</span>
+      <span>EXIM & Trade Compliance</span>
+      <span>Salesforce CRM</span>
+      <span>ERP Transformation</span>
+      <span>Customer Experience (CX)</span>
+      <span>NPS & CSAT Improvement</span>
+      <span>Cost Optimization</span>
+      <span>Multi-Country Team Leadership</span>
+    </div>
+  </section>
+
+  <section>
+    <h2>Education & Certifications</h2>
+    <ul>
+      <li>Bachelor of Commerce – Savitribai Phule Pune University</li>
+      <li>Certified Professional Scrum Master (PSM)</li>
+      <li>Certified Coach – Neuroscience</li>
+      <li>Agile & Project Management Training</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Pune, Maharashtra, India</p>
+    <p>📞 8208854200</p>
+    <p>✉️ abhijeetsc@yahoo.co.in</p>
+    <p>🔗 <a href="https://www.linkedin.com/in/abhijeetpune" target="_blank">LinkedIn Profile</a></p>
+  </section>
+
+</div>
+
+<footer>
+  © 2026 Abhijeet Chakranarayan | Professional Profile Webpage
+</footer>
+
+</body>
+</html>
